@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @yogesh
+- 👋 Hi, I’m Y
+- ogesh
 - 👀 I’m interested in Augmented Reality
 - 🌱 I’m currently learning coding basics.
 - 💞️ I’m looking to collaborate on Instagram AR Effects.
